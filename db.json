@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "AHMET HAKAN EKŞİ",
+      "department": "EMLAK",
+      "salary": 5500,
+      "id": 1
+    },
+    {
+      "name": "MUHAMMED KIZILKAYA",
+      "department": "ULAŞIM",
+      "salary": 5500,
+      "id": 2
+    },
+    {
+      "name": "ABDURRAHMAN",
+      "department": "GİRİT",
+      "salary": 12000,
+      "id": 3
+    }
+  ]
+}
